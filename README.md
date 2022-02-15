@@ -21,4 +21,21 @@
 - Express file-upload.
 - Heroku.
 
-## Routes
+## Website Components & Methods👇
+
+- Mock Products
+- Navbar
+- Commerce Products
+- Add to Cart
+- Cart Layout
+- React Router
+- Cart Buttons
+- Checkout
+- Address Form
+- Fetch Countries
+- Fetch Subdivisions
+- Review
+- Payment Form & Stripe
+- Integration
+- Mobile Responsiveness
+- Deployment
