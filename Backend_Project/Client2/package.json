@@ -1,0 +1,32 @@
+{
+  "name": "e-comerce",
+  "version": "1.0.0",
+  "description": "Make a ECommerce application using MERN",
+  "main": "index.js",
+  "engines": {
+    "node": "v16.13.1"
+  },
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Abhilekh Sarmah",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2",
+    "mongoose": "^6.2.1",
+    "nodemon": "^2.0.15",
+    "router": "^1.3.6",
+    "stripe": "^8.202.0",
+    "uuid": "^8.3.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhilekh-sarmah-au19/backend-project-abhilekh-sarmah-au19.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/abhilekh-sarmah-au19/backend-project-abhilekh-sarmah-au19/issues"
+  },
+  "homepage": "https://github.com/abhilekh-sarmah-au19/backend-project-abhilekh-sarmah-au19#readme"
+}
